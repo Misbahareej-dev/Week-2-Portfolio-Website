@@ -73,37 +73,37 @@ The Contact section allows visitors to:
 
 ### 🏠 Home
 
-![Home](./screenshots/home.png)
+![Home](./Screenshots/home.png)
 
 ---
 
 ### 👩‍💻 About Me & Technical Skills
 
-![About](./screenshots/about.png)
+![About](./Screenshots/about.png)
 
 ---
 
 ### 💻 Projects — Number Guessing Game & Quiz Game
 
-![Projects 1](./screenshots/projects-1.png)
+![Projects 1](./Screenshots/projects-1.png)
 
 ---
 
 ### 💻 Projects — To-Do List & ATM Simulator
 
-![Projects 2](./screenshots/projects-2.png)
+![Projects 2](./Screenshots/projects-2.png)
 
 ---
 
 ### 💻 Projects — Food Recommendation System & Scientific Calculator
 
-![Projects 3](./screenshots/projects-3.png)
+![Projects 3](./Screenshots/projects-3.png)
 
 ---
 
 ### 📩 Contact & Footer
 
-![Contact](./screenshots/contact.png)
+![Contact](./Screenshots/contact.png)
 
 ---
 
