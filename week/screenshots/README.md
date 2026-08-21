@@ -298,11 +298,11 @@ The interface automatically adapts to different screen sizes.
 
 ### 1. Basic Flask Backend
 
-![Basic Flask Backend](screenshots/01_Basic_Flask_Backend.png)
+![Basic Flask Backend](./screenshots/01_Basic_Flask_Backend.png)
 
 ### 2. Database Created
 
-![Database Created](screenshots/02_Database_Created.png)
+![Database Created](./screenshots/02_Database_Created.png)
 
 ---
 
