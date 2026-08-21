@@ -387,7 +387,7 @@ The Flask backend server was successfully started using Visual Studio Code.
 
     http://127.0.0.1:5000
 
-![Server Running](./screenshots/01_Server_Running.png)
+![Server Running](./01_Server_Running.png)
 
 ---
 
@@ -399,7 +399,7 @@ This screenshot shows the successful GET request used to retrieve all available 
 
     GET /api/tasks
 
-![GET All Tasks](./screenshots/02_GET_All_Tasks.png)
+![GET All Tasks](./02_GET_All_Tasks.png)
 
 ---
 
@@ -411,7 +411,7 @@ This screenshot shows the successful GET request used to retrieve a specific tas
 
     GET /api/tasks/1
 
-![GET Single Task](./screenshots/03_GET_Single_Task.png)
+![GET Single Task](./03_GET_Single_Task.png)
 
 ---
 
@@ -430,7 +430,7 @@ This screenshot shows the successful POST request used to add a new task.
         "description": "Finish backend development and API documentation"
     }
 
-![POST Add Task](./screenshots/04_POST_Add_Task.png)
+![POST Add Task](./04_POST_Add_Task.png)
 
 ---
 
@@ -442,7 +442,7 @@ This screenshot shows the successful DELETE request used to remove a task.
 
     DELETE /api/tasks/2
 
-![DELETE Task](./screenshots/05_DELETE_Task.png)
+![DELETE Task](./05_DELETE_Task.png)
 
 ---
 
@@ -454,7 +454,7 @@ This screenshot verifies that the selected task was successfully deleted and the
 
     GET /api/tasks
 
-![GET After Delete](./screenshots/06_GET_After_Delete.png)
+![GET After Delete](./06_GET_After_Delete.png)
 
 ---
 
