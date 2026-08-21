@@ -399,7 +399,7 @@ This screenshot shows the successful GET request used to retrieve all available 
 
     GET /api/tasks
 
-![GET All Tasks](./screenshot/02_GET_All_Tasks.png)
+![GET All Tasks](./screenshot/02_GET_ALl_Tasks.png)
 
 ---
 
@@ -430,7 +430,7 @@ This screenshot shows the successful POST request used to add a new task.
         "description": "Finish backend development and API documentation"
     }
 
-![POST Add Task](./screenshot/04_POST_Add_Task.png)
+![POST Add Task](./screenshot/04_POST_ADd_Task.png)
 
 ---
 
